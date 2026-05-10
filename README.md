@@ -1,9 +1,9 @@
 # Simulador de Propagação Epidêmica Profissional
 
 Uma aplicação web interativa para modelagem de espalhamento de doenças infecciosas usando o modelo epidemiológico **SEIR** (Suscetíveis-Expostos-Infetados-Recuperados).
-                                                                                                                                  # Link do artigo
+# Link do artigo e site
 https://drive.google.com/drive/folders/1eQffro7V-pDzyH4suX6do9lHERkWUem6
-
+https://epidemsim-6htmshml.manus.space
 # Ia utilizada e prompt
 Ia: Manus
 
