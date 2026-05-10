@@ -1,6 +1,55 @@
 # Simulador de Propagação Epidêmica Profissional
 
 Uma aplicação web interativa para modelagem de espalhamento de doenças infecciosas usando o modelo epidemiológico **SEIR** (Suscetíveis-Expostos-Infetados-Recuperados).
+                                                                                                                                  # Link do artigo
+https://drive.google.com/drive/folders/1eQffro7V-pDzyH4suX6do9lHERkWUem6
+
+# Ia utilizada e prompt
+Ia: Manus
+
+prompt:Crie uma aplicação web completa chamada "Simulador de Propagação
+
+Epidêmica Profissional".
+
+O objetivo é replicar a lógica da Calculadora Epidêmica do IRRD,
+
+permitindo que gestores de saúde modelem o espalhamento de doenças.
+
+**Funcionalidades Principais:**
+Motor de Simulação SEIR: Implemente o modelo matemático
+Suscetíveis-Expostos-Infetados-Recuperados.
+
+Painel de Parâmetros (Input):
+População total, R0 inicial (Taxa de Transmissão), Período de
+Incubação (dias), Duração da Infecciosidade.
+
+Parâmetros de intervenção: Taxa de isolamento social e data de
+início das restrições.
+
+Capacidade Hospitalar: Número de leitos de enfermaria e UTI
+disponíveis.
+
+Visualização (Output):
+Gráfico interativo (estilo Chart.js ou Recharts) mostrando as
+curvas de S, E, I, R ao longo do tempo.
+
+Linha horizontal de "Capacidade de Saúde" para visualizar o
+colapso do sistema.
+
+Quadro de resumo com "Pico de Infeção Estimado", "Data do Pico" e
+"Total de Óbitos Estimados".
+
+**Estilo Visual:**
+Interface limpa, profissional, utilizando tons de azul escuro e
+cinza.
+
+Layout responsivo com barra lateral para inputs e área central para
+os gráficos. Use componentes modernos (como Tailwind CSS e Lucide Icons).
+
+**Tecnologia:**
+Frontend em React.
+Cálculos processados no cliente para interatividade em tempo real ao
+mover os sliders
 
 ## 🎯 Objetivo
 
